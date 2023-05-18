@@ -20,10 +20,3 @@ Use the following command:
 ```bash
 npm run dev
 ```
-
-## Netlify Online Link
-
-
-
-
-
