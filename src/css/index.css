@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: whitesmoke;
+    overflow-x:hidden;
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 90% -25%;
+  }
+  
+ 
+  
+
+ 
